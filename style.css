@@ -19,6 +19,10 @@
  padding: 15px;
  border-radius: 6px;
 }
+.bluewords{
+  color:blue;
+  display: inline-block;
+}
 #middle{
    display: inline-block;
 }
@@ -65,5 +69,6 @@ text-decoration: underline;
  border-radius: 6px;
  float:right;
  padding:10px;
+
 
 }
